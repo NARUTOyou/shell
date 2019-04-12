@@ -76,6 +76,6 @@ if [ $percent -ge 50 ] && [ $percent -le 90 ]; then
   # !#########################################【End】
   # !
 
-elif [ $percent > 90 ]; then
+elif [ $percent -gt 90 ]; then
  告警！
 fi
