@@ -26,7 +26,7 @@ disMointor.sh
  
  title:        双击自动关闭微信自动化脚本，防止微信弹出内容的尴尬事件
  
- description:  <font color="#FF7F50">Mac用户下载shutDownWeChat.command</font>，Linux用户下载shutDownWeChat.sh
+ description:  <b>Mac用户下载shutDownWeChat.command</b>，Linux用户下载shutDownWeChat.sh
  
  CSDN ：       https://blog.csdn.net/qq_26012495/article/details/89239935
  
